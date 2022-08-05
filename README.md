@@ -3,7 +3,7 @@
 ***Un Utilities Bot ricco di funzionalità per Dark3rTV***
 
 # Cos'è Dark3rTV?
-Dark3rTV è un Bot Personale per il server Discord di [DARK3Rtv](https://dark3r.carrd.co). Esso permette molte funzionalità e comandi. 
+Dark3rTV Utilitiesè un Bot Personale per il server Discord di [DARK3Rtv](https://dark3r.carrd.co). Esso possiede molte funzionalità e comandi che gli utenti possono usare all'interno del server.  
 
 # Come funziona?
 Il bot presenta diverse funzionalità molto interessanti. Fornisce
