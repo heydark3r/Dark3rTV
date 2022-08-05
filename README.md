@@ -11,10 +11,26 @@ Il bot presenta diverse funzionalità molto interessanti. Fornisce
 Usa il comando `/topic` per generare un argomento casuale durante una conversazione.
 
 # Caratteristiche
+- Altamente personalizzabile:
+  - Attività del Bot, prefisso, categoria, canale di registro...
+  - Sistema di autorizzazione dei comandi
+  - Elementi di interfaccia (colore, risposte, reazioni...)
+  
 - Implementazione robusta:
-
+  - Pianifica le attività in tempo umano, es. `!close 2 hours`
+  - La modifica e l'eliminazione dei messaggi vengono sincronizzate
+  - Supporto per la vasta gamma di contenuiti dei messaggi
+  - Interfaccia comandi impaginate con i bottoni
+  
+Questo elenco è in continua crescita grazie allo sviluppo attivo e ai nostri eccezionali contributori. Visualizza un elenco completo di comandi documentati utilizzando il comando `!help`.
+  
 # Installazione
+Dove posso trovare il link per invitare Dark3rTV Utilities
+
+Sfortunatamente, come già accennato prima, il bot è di tipo personale. Sviluppato per il server Discord Dark3rTV.
+
 **Heroku**
+Il Bot è ospitato da Heroku.
 
 # Contributi
 I contributi a Dark3rTV sono sempre i ben accetti, sia che si tratti di miglioramenti alla documentazione o di nuove funzionalità, sentiti libero di apportare le modifiche. Consulta le nostre Linee Guida per i contributi prima di iniziare.
