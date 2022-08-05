@@ -11,12 +11,16 @@ Il bot presenta diverse funzionalità molto interessanti. Fornisce
 Usa il comando `/topic` per generare un argomento casuale durante una conversazione.
 
 # Caratteristiche
-- Altamente personalizzabile:
+- **Altamente Personalizzabile:**
   - Attività del Bot, prefisso, categoria, canale di registro...
   - Sistema di autorizzazione dei comandi
   - Elementi di interfaccia (colore, risposte, reazioni...)
   
-- Implementazione robusta:
+- **Funzionalità di Registrazione Avanzata:**
+  - Ciao
+  - Ciao
+  
+- **Implementazione Robusta:**
   - Pianifica le attività in tempo umano, es. `!close 2 hours`
   - La modifica e l'eliminazione dei messaggi vengono sincronizzate
   - Supporto per la vasta gamma di contenuiti dei messaggi
@@ -31,6 +35,7 @@ Sfortunatamente, come già accennato prima, il bot è di tipo personale. Svilupp
 
 **Heroku**
 Il Bot è ospitato da Heroku.
+**Località**
 
 # Contributi
 I contributi a Dark3rTV sono sempre i ben accetti, sia che si tratti di miglioramenti alla documentazione o di nuove funzionalità, sentiti libero di apportare le modifiche. Consulta le nostre Linee Guida per i contributi prima di iniziare.
