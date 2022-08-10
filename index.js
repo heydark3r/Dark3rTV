@@ -355,7 +355,7 @@ client.on("interactionCreate", async interaction => {
                 },
                 {
                     name: "⁣",
-                    value: "<@&993266712050933851> \r\r • Ruolo personalizzato \r Emoji personalizzata \r • Aggiungi DARK3R come amico",
+                    value: "<@&993266712050933851> \r\r • Ruolo personalizzato \r • Emoji personalizzata \r • Aggiungi DARK3R come amico",
                     inline: true
                 },
                 {
