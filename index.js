@@ -4,7 +4,7 @@ const client = new Discord.Client({
 })
 
 
-client.login("OTc4MzgwOTc1NzUzMDA3MTg3.G7Q5W3.eRl7HL5xwb5CUAdJ6YwNc90EHNvGbzYppb3hVs")
+client.login(process.env.token)
 
 client.on('ready', () => {
     client.user.setActivity('Dark3rTV', { type: 'WATCHING' });
