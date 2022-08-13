@@ -3,7 +3,6 @@ const client = new Discord.Client({
     intents: ["GUILDS", "GUILD_MESSAGES", "GUILD_MEMBERS", "GUILD_INTEGRATIONS"]
 })
 
-
 client.login(process.env.token)
 
 client.on('ready', () => {
@@ -762,4 +761,11 @@ client.on("guildMemberAdd", member => {
         )
 
     member.send({ content: "Invita i tuoi amici usando https://discord.gg/8fwKnmKwms", embeds: [embed]}); 
+})
+
+client.on("messageCreate", function (message) {
+    if (message.channel.id === "993466915546730556") {
+        message.react("<:DR_Check:959862118264492112>")
+        message.react("<:DR_Cross:959862118147051530>")
+    }
 })
