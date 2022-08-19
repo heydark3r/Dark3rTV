@@ -755,7 +755,7 @@ client.on("guildMemberAdd", member => {
             },
             {
                 name: "<:PurpleNetwork:977977633063194634> Contact",
-                value: "Per ulteriori richieste consigliamo di **[aprire un Support Ticket](https://discord.com/channels/748109416322301964/993466521923883008)**. \r\rPer richieste commerciali, per favore `email dark3rtv@gmail.com` o DM su [Twitter](https://twitter.com/Dark3rTV).",
+                value: "Per ulteriori richieste consigliamo di **[aprire un Support Ticket](https://discord.com/channels/748109416322301964/993466521923883008)**. \r\rPer richieste commerciali, per favore email `dark3rtv@gmail.com` o DM su [Twitter](https://twitter.com/Dark3rTV).",
                 inline: false
             }
         )
