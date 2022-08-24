@@ -163,7 +163,7 @@ client.on("messageCreate", (message) => {
                     value: "faq6"
                 },
                 {
-                    label: "Come faccio ad ospitare un Giveeaway?",
+                    label: "Come faccio ad ospitare un Giveaway?",
                     description: "FAQ 7",
                     value: "faq7"
                 },
