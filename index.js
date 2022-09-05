@@ -85,12 +85,12 @@ client.on("messageCreate", (message) => {
             .addFields(
                 {
                     name: "<:PurpleNetwork:977977633063194634> Quick Links",
-                    value: "<:PurpleLink:977977633574879313> [dark3rtv.it](https://dark3rtv.carrd.co) \r <:PurpleTwitter:977977633184825474> [@Dark3rTV](https://twitter.com/Dark3rTV) \r <:PurpleReddit:977977633201618974> [Subreddit](https://reddit.com/r/dark3rtv) \r\r <:PurpleLink:977977633574879313> [Vote on Top.gg!](https://top.gg/servers/748109416322301964/vote)",
+                    value: "<:PurpleLink:977977633574879313> [dark3rtv.it](https://dark3rtv.carrd.co) \r<:PurpleTwitter:977977633184825474> [@Dark3rTV](https://twitter.com/Dark3rTV) \r<:PurpleReddit:977977633201618974> [Subreddit](https://reddit.com/r/dark3rtv) \r\r<:PurpleLink:977977633574879313> [Vote on Top.gg!](https://top.gg/servers/748109416322301964/vote)",
                     inline: true
                 },
                 {
                     name: "<:PurpleNetwork:977977633063194634> Information",
-                    value: "<:PurpleFlag:977977632979320923> Founded: <t:1598414400:D> \r <:PurpleCrown:977977633071595540> Owner: <@709672125354606592> \r <:PurplePlanet:977977633147068516> Invite: [discord.gg/dark3rtv](https://discord.gg/8fwKnmKwms)",
+                    value: "<:PurpleFlag:977977632979320923> Founded: <t:1598414400:D> \r<:PurpleCrown:977977633071595540> Owner: <@709672125354606592> \r<:PurplePlanet:977977633147068516> Invite: [discord.gg/dark3rtv](https://discord.gg/8fwKnmKwms)",
                     inline: true
                 }
             )
