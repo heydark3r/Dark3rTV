@@ -415,17 +415,17 @@ client.on("interactionCreate", async interaction => {
             .addFields(
                 {
                     name: "<:PurpleBooster:977977632547283055> Potenzia una volta, Ottieni",
-                    value: "<:DR_Check:959862118264492112> Ruolo issato \r <:DR_Check:959862118264492112><:Ticket:959862117668896770> Custom Role \r <:DR_Check:959862118264492112> Attaca file in chat \r <:DR_Check:959862118264492112> Cambia Nickname \r <:DR_Check:959862118264492112> Aggiungere Reazioni \r <:DR_Check:959862118264492112> Accesso a <#993501285246574655> \r <:PNG:994191368857600050><:BlueSparkle:998160664780603423> **Ha GIF Perms, 0s Slowmode in ogni momento e la possibilità di parlare durante i blocchi!**",
+                    value: "<:DR_Check:959862118264492112> Ruolo issato \r<:DR_Check:959862118264492112><:Ticket:959862117668896770> Custom Role \r<:DR_Check:959862118264492112> Attaca file in chat \r<:DR_Check:959862118264492112> Cambia Nickname \r<:DR_Check:959862118264492112> Aggiungere Reazioni \r<:DR_Check:959862118264492112> Accesso a <#993501285246574655> \r<:PNG:994191368857600050><:BlueSparkle:998160664780603423> **Ha GIF Perms, 0s Slowmode in ogni momento e la possibilità di parlare durante i blocchi!**",
                     inline: false
                 },
                 {
                     name: "<:PurpleBooster:977977632547283055><:PurpleBooster:977977632547283055> Potenzia due volte, Ottieni",
-                    value: "« Tutto quello che ottieni prima \r <:DR_Check:959862118264492112> Ignora i Requisiti per i Giveaway \r <:DR_Check:959862118264492112><:Ticket:959862117668896770> Custom Blanket Emoji (<:DARK3RBlanket:916816369557860382>) \r <:DR_Check:959862118264492112><:Ticket:959862117668896770> Un'emoji SFW personalizzata a tua scelta",
+                    value: "« Tutto quello che ottieni prima \r<:DR_Check:959862118264492112> Ignora i Requisiti per i Giveaway \r<:DR_Check:959862118264492112><:Ticket:959862117668896770> Custom Blanket Emoji (<:DARK3RBlanket:916816369557860382>) \r<:DR_Check:959862118264492112><:Ticket:959862117668896770> Un'emoji SFW personalizzata a tua scelta",
                     inline: true
                 },
                 {
                     name: "<:PurpleBooster:977977632547283055><:PurpleBooster:977977632547283055><:PurpleBooster:977977632547283055> Potenzia tre volte, Ottieni",
-                    value: "« Tutto quello che ottieni prima \r <:DR_Check:959862118264492112><:Ticket:959862117668896770> Custom Pet Emoji (<:DARK3RBlanket:916816369557860382>) \r <:DR_Check:959862118264492112><:Ticket:959862117668896770> DARK3R ti aggiungerà come amico",
+                    value: "« Tutto quello che ottieni prima \r<:DR_Check:959862118264492112><:Ticket:959862117668896770> Custom Pet Emoji (<:DARK3RBlanket:916816369557860382>) \r<:DR_Check:959862118264492112><:Ticket:959862117668896770> DARK3R ti aggiungerà come amico",
                     inline: true
                 },
                 {
