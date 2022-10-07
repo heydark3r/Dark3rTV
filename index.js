@@ -199,7 +199,7 @@ client.on("messageCreate", (message) => {
 
         var select_age = new Discord.MessageSelectMenu()
             .setCustomId("idAge")
-            .setPlaceholder("Scegli la tua età")
+            .setPlaceholder("Scegli un ruolo...")
             .setMinValues(1)
             .setMaxValues(1)
             .addOptions([
@@ -235,7 +235,7 @@ client.on("messageCreate", (message) => {
 
         var select_pronouns = new Discord.MessageSelectMenu()
             .setCustomId("idPronouns")
-            .setPlaceholder("Scegli la tua età")
+            .setPlaceholder("Scegli un ruolo...")
             .setMinValues(1)
             .setMaxValues(1)
             .addOptions([
@@ -271,7 +271,7 @@ client.on("messageCreate", (message) => {
 
         var select_notification = new Discord.MessageSelectMenu()
             .setCustomId("idNotification")
-            .setPlaceholder("Scegli quando vuoi essere notificato")
+            .setPlaceholder("Scegli un ruolo...")
             .setMinValues(1)
             .setMaxValues(7)
             .addOptions([
@@ -360,6 +360,11 @@ client.on("interactionCreate", async interaction => {
                 {
                     name: "⁣",
                     value: "<@&993266709421101227> \r\r • Scegli il Colore del Ruolo \r • Il mio amore incondizionato per te",
+                    inline: true
+                },
+                {
+                    name: "⁣",
+                    value: "⁣",
                     inline: true
                 }
             )
